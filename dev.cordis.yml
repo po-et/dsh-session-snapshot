@@ -1,0 +1,4 @@
+# Dev overlay: load the built plugin by absolute path.
+- insert:
+    - id: session-snapshot-dev
+      name: '/Users/limit/AI/Github/dsh-session-snapshot/lib/index.js'

@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/po-et/dsh-session-snapshot#readme",
   "engines": {
-    "node": ">=22.15"
+    "node": ">=22.15",
+    "dsh": ">=0.1.0-rc.6"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
